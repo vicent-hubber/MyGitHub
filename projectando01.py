@@ -8,6 +8,5 @@ for i in numeros:
 print("")
 print('===' * 10)
 print('Exibição dos Dados:')
-
 print('Numeros pares: ',pares)
 print('Numeros impares: ',impares)
